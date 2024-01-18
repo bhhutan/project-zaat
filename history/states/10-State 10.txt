@@ -1,0 +1,22 @@
+state={
+	id=10
+	name="STATE_10"
+
+	history={
+		owner = WFR
+		add_core_of = WFR
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	
+	provinces={
+		386 1209 1682 2611 3269 3415 3507 4131 5023 5697 6729 6735 8370 9481 9834 10387 10466 13447 13494 13513 13559 13565 13580 13590 13601 13630 13632 13720 13737 13777 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category = city
+	local_supplies=0.000
+}

@@ -1,0 +1,15 @@
+characters = {
+	WFR_wooferdooper = {
+		name = WFR_woofer
+		portraits = {
+			civilian = {
+				large = GFX_portrait_wooferdooper
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire="1965.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state={
+	id=9
+	name="STATE_9"
+
+	history={
+		owner = BHH
+		add_core_of = BHH
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	
+	provinces={
+		933 1109 1733 2920 4716 4833 4889 4999 5134 5254 5648 5953 6146 7524 8066 8184 8406 8413 9862 9917 9948 10446 13349 13351 13402 13414 13420 13437 13454 13463 13493 13506 13534 13536 13546 13548 13553 13570 13575 13579 13599 13600 13709 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category = city
+	local_supplies=0.000
+}

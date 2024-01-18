@@ -1,0 +1,15 @@
+characters = {
+	SJM_sirjimmy = {
+		name = SJM_jimmy
+		portraits = {
+			civilian = {
+				large = GFX_portrait_sirjimmymcgoosebean
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			expire="1965.1.1.1"
+			id = -1
+		}
+	}
+}

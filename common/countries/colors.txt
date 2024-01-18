@@ -1,0 +1,26 @@
+#reload countrycolors
+
+GER = {
+	color = rgb { 147 130 110 }
+	color_ui = rgb { 147 130 110 }
+}
+
+BHH = {
+	color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 }
+}
+
+WFR = {
+	color = rgb { 241 156 187 }
+	color_ui = rgb { 241 156 187 }
+}
+
+SJM = {
+	color = rgb { 200 16 46 }
+	color_ui = rgb { 200 16 46 }
+}
+
+BRM = {
+	color = rgb { 27 41 57}
+	color_ui = rgb { 97 143 209 }
+}

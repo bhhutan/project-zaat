@@ -1,0 +1,15 @@
+characters = {
+	BRM_brimstones = {
+		name = BRM_brimstones
+		portraits = {
+			civilian = {
+				large = GFX_portrait_brimstones
+			}
+		}
+		country_leader = {
+			ideology = nazism
+			expire="1965.1.1.1"
+			id = -1
+		}
+	}
+}
