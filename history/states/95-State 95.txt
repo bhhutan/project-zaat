@@ -5,7 +5,18 @@ state={
 	provinces={
 		1219 1428 2391 4552 5535 6861 7344 7401 8039 8635 14653 14658 14668 14684 14700 14708 14748 14756 14779 14786 14801 
 	}
-	manpower=0
+	
+	history = {
+		#owner = 
+		#add_core_of = 
+		
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	manpower=1
+	state_category = town
+
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

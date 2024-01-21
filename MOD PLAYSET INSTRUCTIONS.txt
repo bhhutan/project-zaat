@@ -1,0 +1,23 @@
+the .mod file "ZAAT" is here just in case i update it to add any "replace=" blocks.
+
+make sure to replace the old .zaat file whenever it does update,
+
+ALSO MAKE SURE TO CHANGE THE PATH FILE LOCATION!!!!
+
+path="C:/Users/penis man/Documents/Paradox Interactive/Hearts of Iron IV/mod/project-zaat"
+
+^ is MY path, change it to YOUR path to the DOCUMENTS paradox folder, NOT your steam!!!
+
+easy way to do this:
+
+File Explorer > look at the top where the file paths are, right click project-zaat
+
+"Copy Address as text"
+
+Ex: C:\Users\penis man\Documents\Paradox Interactive\Hearts of Iron IV\mod\project-zaat
+
+change BACKSLASHES (\) TO FORWARD SLASHES (/)
+
+paste in path=" "!
+
+congrats it should work now
