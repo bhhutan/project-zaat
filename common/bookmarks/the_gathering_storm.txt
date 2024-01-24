@@ -7,6 +7,38 @@ bookmarks = {
 		default_country = "GER"
 		default = yes
 		
+		"BHH"={
+			history = "BHH_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"WFR"={
+			history = "WFR_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"SJM"={
+			history = "SJM_GATHERING_STORM_DESC"
+			ideology = communism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"BRM"={
+			history = "BRM_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
 		"GER"={
 			history = "GER_GATHERING_STORM_DESC"
 			ideology = democratic
