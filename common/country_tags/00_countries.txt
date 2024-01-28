@@ -29,5 +29,5 @@ SPI = "countries/Spide.txt"
 SWZ = "countries/Swizzy.txt"
 TOF = "countries/Tofudorifuto.txt"
 BCN = "countries/Bacon.txt"
-MAU = "countries/Mauterra"
+MAU = "countries/Mauterra.txt"
 ############################################################
