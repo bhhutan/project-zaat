@@ -21,6 +21,71 @@ SJM = {
 }
 
 BRM = {
-	color = rgb { 27 41 57}
+	color = rgb { 35 39 151}
 	color_ui = rgb { 97 143 209 }
+}
+
+ALO = {
+	color = rgb { 255 182 89}
+	color_ui = rgb { 255 182 89 }
+}
+
+BAC = {
+	color = rgb { 186 92 45 }
+	color_ui = rgb { 186 92 45 }
+}
+
+BLA = {
+	color = rgb { 69 142 39 }
+	color_ui = rgb { 69 142 39 }
+}
+
+CAN = {
+	color = rgb { 134 69 224 }
+	color_ui = rgb { 134 69 224 }
+}
+
+FLA = {
+	color = rgb { 53 163 201 }
+	color_ui = rgb { 53 163 201 }
+}
+
+KHA = {
+	color = rgb { 48 24 116 }
+	color_ui = rgb { 48 24 116 }
+}
+
+SNO = {
+	color = rgb { 204 191 81 }
+	color_ui = rgb { 204 191 81 }
+}
+
+SPI = {
+	color = rgb { 0 113 255 }
+	color_ui = rgb { 0 113 255 }
+}
+
+SWZ = {
+	color = rgb { 157 230 255 }
+	color_ui = rgb { 157 230 255 }
+}
+
+TOF = {
+	color = rgb { 201 24 58 }
+	color_ui = rgb { 201 24 58 }
+}
+
+BCN = {
+	color = rgb { 109 22 78 }
+	color_ui = rgb { 109 22 78 }
+}
+
+BOT = {
+	color = rgb { 52 152 219 }
+	color_ui = rgb { 52 152 219 }
+}
+
+MAU = {
+	color = rgb { 67 153 120 }
+	color_ui = rgb { 67 153 120 }
 }

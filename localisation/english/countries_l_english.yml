@@ -8,19 +8,72 @@ WFR:0 "Wooferdooper"
 WFR_DEF:0 "Wooferdooper"
 WFR_ADJ:0 "Wooferdooper"
 
+SJM:0 "Sirjimmymcgoosebean"
+SJM_DEF:0 "Sirjimmymcgoosebean"
+SJM_ADJ:0 "Sirjimmymcgoosebean"
+
 BRM:0 "Brimstones1"
 BRM_DEF:0 "Brimstones1"
 BRM_ADJ:0 "Brimstones1"
 
-SJM:0 "Sirjimmymcgoosebean"
-SJM_DEF:0 "Sirjimmymcgoosebean"
-SJM_ADJ:0 "Sirjimmymcgoosebean"
+ALO:0 "Alos"
+ALO_DEF:0 "Alos"
+ALO_ADJ:0 "Alos"
+
+BAC:0 "Baccaglowstone"
+BAC_DEF:0 "Baccaglowstone"
+BAC_ADJ:0 "Baccaglowstone"
+
+BLA:0 "Blacos"
+BLA_DEF:0 "Blacos"
+BLA_ADJ:0 "Blacos"
+
+BOT:0 "Bottlecaps617"
+BOT_DEF:0 "Bottlecaps617"
+BOT_ADJ:0 "Bottlecaps617"
+
+CAN:0 "Cankies"
+CAN_DEF:0 "Cankies"
+CAN_ADJ:0 "Cankies"
+
+FLA:0 "Flacey"
+FLA_DEF:0 "Flacey"
+FLA_ADJ:0 "Flacey"
+
+KHA:0 "Kham"
+KHA_DEF:0 "Kham"
+KHA_ADJ:0 "Kham"
+
+SNO:0 "Snoopkin"
+SNO_DEF:0 "Snoopkin"
+SNO_ADJ:0 "Snoopkin"
+
+SPI:0 "Spide"
+SPI_DEF:0 "Spide"
+SPI_ADJ:0 "Spide"
+
+SWZ:0 "Swizzy"
+SWZ_DEF:0 "Swizzy"
+SWZ_ADJ:0 "Swizzy"
+
+TOF:0 "Tofudorifuto"
+TOF_DEF:0 "Tofudorifuto"
+TOF_ADJ:0 "Tofudorifuto"
+
+BCN:0 "Communistbacon123"
+BCN_DEF:0 "Communistbacon123"
+BCN_ADJ:0 "Communistbacon123"
+
+MAU:"Mauterra"
+MAU_DEF:"Mauterra"
+MAU_ADJ:"Mauterra"
+
+GER:0 "Barren Wastes"
+GER_DEF:0 "the Barren Wastes"
+GER_ADJ:0 "fuck you"
+####################################################################
 
 SJM_jimmy:0 "Jimmy McGoosebean"
 WFR_woofer:0 "Wooferdooper"
 BHH_bhhutan:0 "Bhhutan"
 BRM_brimstones:0 "Brimstones1"
-
-GER:0 "Barren Wastes"
-GER_DEF:0 "the Barren Wastes"
-GER_ADJ:0 "fuck you"

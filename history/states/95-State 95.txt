@@ -7,8 +7,8 @@ state={
 	}
 	
 	history = {
-		#owner = 
-		#add_core_of = 
+		owner = MAU
+		add_core_of = MAU
 		
 		buildings = {
 			infrastructure = 2
